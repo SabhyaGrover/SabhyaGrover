@@ -1,9 +1,11 @@
-<h1 align="center">Hello World ! 👋 I'm Sabhya</h1>
+<h1 align="center">Hello World, I'm Sabhya 👋</h1>
 <p align="center">
 <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" style="align:middle"/> </p>
 <h5 align="center">A jack of all trades, who loves to think and work out of the box!</h5>
 <p align="center"> 
-<a href="https://twitter.com/GroverSabhya" target="blank"><img src="https://img.shields.io/twitter/follow/groversabhya?logo=twitter&style=for-the-badge" alt="groversabhya" /></a> </p>
+<a href="https://twitter.com/GroverSabhya" target="blank"><img src="https://img.shields.io/twitter/follow/Groverabhya?logo=twitter&style=for-the-badge" alt="groversabhya" /></a> 
+<a href="https://www.linkedin.com/in/sabhyagrover"> 
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
 - 🌱 I’m currently learning **Data Science, Code Testing and Automation**
 
