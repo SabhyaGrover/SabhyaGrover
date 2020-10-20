@@ -5,7 +5,8 @@
 <p align="center"> 
 <a href="https://twitter.com/GroverSabhya" target="blank"><img src="https://img.shields.io/twitter/follow/GroverSabhya?logo=twitter&style=for-the-badge" alt="GroverSabhya" /></a> 
 <a href="https://www.linkedin.com/in/sabhyagrover"> 
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 - 🌱 I’m currently learning **Data Science, Code Testing and Automation**
 
