@@ -1,6 +1,6 @@
-
-<h1 align="center">Hello World ! 👋, I'm Sabhya</h1>
+<h1 align="center">Hello World ! 👋 I'm Sabhya</h1>
 <h3 align="center">A Jack of all Trades, who loves to think and work out of the box!</h3>
+<img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" style="align:middle"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabhyagrover&label=Profile%20views&color=0e75b6&style=flat" alt="sabhyagrover" /> </p>
 
@@ -10,9 +10,10 @@
 
 - 💬 Ask me about **Data Structures, Algorithms, C++ , React , React-Native, Expo**
 
-- 📫 How to reach me **sabgrohyaver@gmail.com**
+- 📫 Reach me at **sabgrohyaver@gmail.com**
 
-- ⚡ Fun fact **Development is not only about coding and Photography is not just about clicking a button !**
+- ⚡ **Fun fact** : _"Dont ever, for any reason,do anything, to anyone,for any reason, ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been,ever for any reason whatsoever"_
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
