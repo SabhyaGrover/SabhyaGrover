@@ -1,8 +1,7 @@
 <h1 align="center">Hello World ! 👋 I'm Sabhya</h1>
-<h3 align="center">A Jack of all Trades, who loves to think and work out of the box!</h3>
 <p align="center">
 <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" style="align:middle"/> </p>
-
+<h5 align="center">A jack of all trades, who loves to think and work out of the box!</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabhyagrover&label=Profile%20views&color=0e75b6&style=flat" alt="sabhyagrover" /> </p>
 
 <p align="left"> <a href="https://twitter.com/groversabhya" target="blank"><img src="https://img.shields.io/twitter/follow/groversabhya?logo=twitter&style=for-the-badge" alt="groversabhya" /></a> </p>
