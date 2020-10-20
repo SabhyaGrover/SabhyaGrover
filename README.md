@@ -2,11 +2,10 @@
 <p align="center">
 <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" style="align:middle"/> </p>
 <h5 align="center">A jack of all trades, who loves to think and work out of the box!</h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabhyagrover&label=Profile%20views&color=0e75b6&style=flat" alt="sabhyagrover" /> </p>
+<p align="center"> 
+<a href="https://twitter.com/GroverSabhya" target="blank"><img src="https://img.shields.io/twitter/follow/groversabhya?logo=twitter&style=for-the-badge" alt="groversabhya" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/groversabhya" target="blank"><img src="https://img.shields.io/twitter/follow/groversabhya?logo=twitter&style=for-the-badge" alt="groversabhya" /></a> </p>
-
-- 🌱 I’m currently learning **Data Science, Testing and Automation**
+- 🌱 I’m currently learning **Data Science, Code Testing and Automation**
 
 - 💬 Ask me about **Data Structures, Algorithms, C++ , React , React-Native, Expo**
 
