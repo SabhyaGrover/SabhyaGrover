@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Structures, Algorithms, C++ , React , React-Native, Expo, Django**
 
-- ⚡ Fun fact about me ** Oftentimes a thinking tank, I can also be found clicking random pictures !!**
+- ⚡ Fun fact about me **Oftentimes a thinking tank, I can also be found clicking random pictures !!**
 
 - 📫 Reach me at **sabgrohyaver@gmail.com**
 
