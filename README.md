@@ -10,7 +10,11 @@
 
 - 🌱 I’m currently learning **Data Science, Code Testing and Automation**
 
-- 💬 Ask me about **Data Structures, Algorithms, C++ , React , React-Native, Expo**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **Data Structures, Algorithms, C++ , React , React-Native, Expo, Django**
+
+- ⚡ Fun fact about me ** Oftentimes a thinking tank, I can also be found clicking random pictures !!**
 
 - 📫 Reach me at **sabgrohyaver@gmail.com**
 
