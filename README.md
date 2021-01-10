@@ -19,6 +19,7 @@
 - 📫 Reach me at **sabgrohyaver@gmail.com**
 
 - 🙋 She/Her
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabhyagrover&show_icons=true&locale=en&layout=compact" alt="sabhyagrover" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=sabhyagrover&show_icons=true&locale=en" alt="sabhyagrover" /></p>
+<p><center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabhyagrover&show_icons=true&locale=en&layout=compact" alt="sabhyagrover" /></center></p>
+ <img src="https://github-readme-stats.vercel.app/api?username=sabhyagrover&show_icons=true&locale=en" alt="sabhyagrover" />
 
 
