@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Sabhya 👋</h1>
 <p align="center">
-<img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" style="align:middle"/> </p>
+
 <h5 align="center">A jack of all trades, who loves to think and work out of the box!</h5>
 <p align="center"> 
 <a href="https://twitter.com/GroverSabhya" target="blank"><img src="https://img.shields.io/twitter/follow/GroverSabhya?logo=twitter&style=for-the-badge" alt="GroverSabhya" /></a> 
