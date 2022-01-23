@@ -8,13 +8,11 @@
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-- 🌱 I’m currently learning **Data Science, Code Testing and Automation**
+- 🌱 I’m currently learning **NLP and Microservices in Production**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Data Structures, Algorithms, C++ , React , React-Native, Expo, Django**
-
-- ⚡ Fun fact about me **Oftentimes a thinking tank, I can also be found clicking random pictures !!**
+- 💬 Ask me about **Data Structures, Algorithms, C++ , React , React-Native, Expo, Django,CI/CD Automation**
 
 - 📫 Reach me at **sabgrohyaver@gmail.com**
 
